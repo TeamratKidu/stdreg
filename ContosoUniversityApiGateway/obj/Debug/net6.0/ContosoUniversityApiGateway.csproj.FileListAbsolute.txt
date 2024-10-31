@@ -1,0 +1,7 @@
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.csproj.AssemblyReference.cache
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.AssemblyInfoInputs.cache
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.AssemblyInfo.cs
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\FINALLY11\Downloads\AspNetCore.Docs-main\ContosoUniversityApiGateway\obj\Debug\net6.0\ContosoUniversityApiGateway.MvcApplicationPartsAssemblyInfo.cache
